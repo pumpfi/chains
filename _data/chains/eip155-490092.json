@@ -1,6 +1,7 @@
 {
   "name": "PUMPFI CHAIN TESTNET",
   "chain": "PUMPFI CHAIN TESTNET",
+  "icon": "PumpfiChainTestnet",
   "rpc": ["https://rpc1testnet.pumpfi.me"],
   "faucets": ["https://faucet.pumpfi.me"],
   "nativeCurrency": {
@@ -16,6 +17,7 @@
     {
       "name": "Pumpfi Testnet Scan",
       "url": "https://testnetscan.pumpfi.me",
+      "icon": "PumpfiChainTestnet",
       "standard": "EIP3091"
     }
   ]
